@@ -1,0 +1,490 @@
+<section xml:id="sec-loans" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Loans</title>
+    <introduction>
+        <p>
+            
+        </p>
+    </introduction>
+		<subsection xml:id="loans">
+			<title>Loans</title>
+
+			<p><ol>
+				<li>
+					<p>
+						<m>\textbf{Present Value of an Annuity:}
+
+						</m>
+						<me>
+							P = R \frac{1-(1+\frac{r}{n})^{-nt}}{\frac{r}{n}}
+						</me>
+						 or
+						 <me>
+							P = R \frac{1-(1+i)^{-m}}{i}
+						 </me>
+						 
+						
+					</p>	
+				
+				</li>
+
+				<li>
+							<p>
+								The Present Value formula states how much a series of payments is worth <em>as one lump sum at the beginning</em>. This can show up in several different ways; here are four.
+							</p>
+				
+							<p><ol>
+								<li>
+											<p>
+												<term>How much money do you need now to fund a series of future payments?</term><!-- linebreak -->Example: You are planning to retire at age 68. You will need a $50,000 payment each year to live on, and you plan to be retired for 20 years. The interest rate is 6%. How much money do you need in your retirement account when you retire?
+											</p>
+								</li>
+				
+								<li>
+											<p>
+												<term>What is a fair price to charge now in exchange for paying someone regularly in the future?</term><!-- linebreak -->Example:  runs a retirement home, and  wants to pay a fixed sum now to have  take care of  for the rest of  life. It will cost  $2000 per month to take care of , and  will probably live another 15 years.  can get interest rates of 5% compounded monthly. How much should  charge ?
+											</p>
+								</li>
+				
+								<li>
+											<p>
+												<term>What is a fair price to pay for something that will pay you regularly in the future?</term><!-- linebreak -->Example: is an investor looking at buying a copper mine. The mine will produce an annual profit of $1,200,000 per year for its owner for the next 20 years, but then the ore will run out. Interest rates are sitting at 4%. How much would be a fair price to pay for the mine?
+											</p>
+								</li>
+				
+								<li>
+											<p>
+												<term>How does a loan amount relate to the regular loan payment?</term><!-- linebreak -->Example:  put a $2000 down payment on a $12,000 car, financing the rest with a 5-year loan at 6% interest, compounded monthly.
+											</p>
+								
+											<p><ol>
+												<li>
+															<p>
+																How much will  monthly payments be?
+															</p>
+												</li>
+								
+												<li>
+															<p>
+																How much cash did  pay, total, for  $12,000 car?
+															</p>
+												</li>
+								
+												<li>
+															<p>
+																How many dollars of interest did  pay for this car?
+															</p>
+												</li>
+								
+											</ol></p>
+								</li>
+				
+							</ol></p>
+				</li>
+
+				<li>
+							<p>
+								 Hailey has a student loan of $9,000 to be paid back over 12 years at 4% interest compounded monthly.
+							</p>
+				
+							<p><ol>
+								<li>
+											<p>
+												How much will the monthly payment be?
+											</p>
+								</li>
+				
+								<li>
+											<p>
+												What will be the total amount  pays for  $9,000 loan?
+											</p>
+								</li>
+				
+								<li>
+											<p>
+												How much interest did  pay for this loan?
+											</p>
+								</li>
+				
+								<li>
+											<p>
+												If  wants to pay it off in just 5 years, how much should  pay each month? How much interest will that save ?
+											</p>
+								</li>
+				
+							</ol></p>
+				</li>
+
+				<li>
+							<p>
+								You want to buy a car. You have $1,500 saved up for a down payment, and you can get a 5-year car loan at 3% interest, compounded monthly.
+							</p>
+				
+							<p><ol>
+								<li>
+											<p>
+												If you can afford a $200 monthly car payment, what is the most expensive car you can buy?
+											</p>
+								</li>
+				
+								<li>
+											<p>
+												If you want to buy an $18,000 vehicle, what will the monthly payment be?
+											</p>
+								</li>
+				
+								<li>
+											<p>
+												If you buy that $18,000 vehicle, how much will you pay in interest over the life of the loan?
+											</p>
+								</li>
+				
+							</ol></p>
+				</li>
+
+			</ol></p>
+			<p>
+				<m>\textbf {Homework 10}</m>
+			</p>
+        
+			<p>
+				<ol marker="F18.">
+					<li>
+						<p>
+							Find the present value of each of the following ordinary annuities.
+							
+						</p>
+						<p><ol marker="(a)">
+				<li>
+							<p>
+								Payments of $500 made at the end of each quarter for 8 years, where 10% annual interest is compounded quarterly.
+							</p>
+				</li>
+
+				<li>
+							<p>
+								Payments of $100 made at the end of each month for 10 years, where 6% annual interest is compounded monthly.
+							</p>
+				
+							<p>
+								<m>\$100 \dfrac{1-(1+\frac{.06}{12})^{-12\cdot 10}}{\frac{.06}{12}} = \boxed{\$9007.35.}</m>
+							</p>
+				</li>
+
+			</ol></p>
+					</li>
+
+					<li>
+						<p>
+							Suppose you borrow $16,000 from a bank to purchase a car. The bank charges 4% annual interest, compounded monthly. You are to make equal monthly payments at the end of each of the next 48 months to amortize your loan. How much are your monthly payments?
+						</p>
+					</li>
+					<li>
+								<p>
+						We are looking for a payment <m>P</m> such that<!-- linebreak -->Solving we obtain <m>P=\boxed{\$361.26.}</m>
+					</p>
+
+					<p>
+						You want to retire at age 65 with an $80,000 annual income. You come from a long-lived family, so you want to be prepared in case you live to age 97. Interest rates are at 8%.
+					</p>
+
+					<p>
+						<ol marker="(a)">
+						<li>
+									<p>
+										How much money will you need in your retirement accounts when you retire, in order to fund annual payments of $ 80,000?
+									</p>
+						</li>
+
+						<li>
+									<p>
+										If you start working at age 22, how much money should you deposit into your retirement account each month in order to have saved up the amount from part (a) by the time you retire at age 65?
+									</p>
+						</li>
+
+					</ol>
+				</p>
+					</li>
+					<li>
+						<p>
+				 R'moni has to take out $20,000 in student loans to get through college. The interest rate is 6.8% annually, compounded monthly, and  will make monthly payments for the next ten years. (No interest is charged or payments required until  leaves school.)
+			</p>
+
+			<p>
+				<ol marker="(a)">
+					<li>
+						<p>
+							How much will  monthly payment be?
+						</p>
+					</li>
+
+					<li>
+						<p>
+							How much interest will  pay over those ten years? (The answer should be in dollars.)
+						</p>
+					</li>
+					<li>
+						<p>
+							Suppose  tries to pay off the loan in just 5 years. How much will  have to pay each month to do so?
+						</p>
+					</li>
+
+					<li>
+						<p>
+							If  does pay off the loan in 5 years, how much interest will  pay total?
+						</p>
+					</li>
+
+					<li>
+						<p>
+							How much money does  save by paying off the loan in 5 years instead of 10 years?
+						</p>
+					</li>
+
+				</ol>
+			</p>
+						
+					</li>
+					<li>
+						<p>
+							Some time ago   took out a mortgage from First National State Local Bank;  payment was $900 per month. FNSLB is strapped for cash these days, so it’s considering <q>selling the mortgage</q> to Seventh National Bank; in other words, SNB will pay FNSLB a certain sum of money, and in return SNB will get all  ’s remaining mortgage payments.<!-- linebreak -->There are 187 payments remaining on the mortgage, and interest rates are at 4% per year. How much should FNSLB charge Seventh National Bank to buy the mortgage?
+						</p>
+					</li>
+					<li>
+						<p>
+							You win a <q>one million dollar</q> lottery prize. Hooray!
+						</p>
+
+						<p>
+						<ol marker="(a)">
+							<li>
+								<p>
+									Suppose the lottery rules stipulate that you will be paid $50,000 at the end of each of the next 20 years, for a total of $1,000,000 paid out. Assuming that annual interest rates will stay at 5%, what is the present value of this prize? In other words, how much is this prize really worth <em>today</em>?
+								</p>
+							</li>
+
+							<li>
+								<p>
+									Suppose instead the lottery rules stipulate that you will be paid $50,000 today, and then $50,000 at the end of each year for the next 19 years. Assuming 5% interest rates, how much is <em>this</em> prize really worth <em>today</em>?
+								</p>
+							</li>
+
+						</ol>
+					</p>
+					</li>
+					<li>
+						<p>
+				Two oil wells are for sale. The well in Varmint, TX promises to yield payments of $6,000 at the end of each year for the next 10 years. The well in Mule’s Ear, TX will yield payments of $4,000 at the end of each year for the next 20 years. (Notice that the lengths of time are different!)
+			</p>
+
+			<p>
+				<ol marker="(a)">
+				<li>
+					<p>
+						Assuming that annual interest rates will hold steady at 8% for the next 20 years, find the present value of each oil well. Which oil well is more valuable?
+					</p>
+		
+					<p>
+						The present value in Varmint is <m>\$6000 \dfrac{1-(1+\frac{.08}{1})^{-1\cdot 10}}{\frac{.08}{1}} = \boxed{\$40260.49.}</m> The present value in Mule’s Ear is <m>\$4000 \dfrac{1-(1+\frac{.08}{1})^{-1\cdot 20}}{\frac{.08}{1}} = \boxed{\$39272.59.}</m>
+					</p>
+		
+					<p>
+						Thus
+					</p>
+				</li>
+
+				<li>
+					<p>
+						Assuming that annual interest rates will stay at 6% for the next 20 years, find the present value of each oil well. Which oil well is more valuable?
+					</p>
+		
+					<p>
+						The present value in Varmint is <m>\$6000 \dfrac{1-(1+\frac{.06}{1})^{-1\cdot 10}}{\frac{.06}{1}} = \boxed{\$44160.52.}</m> The present value in Mule’s Ear is <m>\$4000 \dfrac{1-(1+\frac{.06}{1})^{-1\cdot 20}}{\frac{.06}{1}} = \boxed{\$45879.68.}</m>
+					</p>
+		
+					<p>
+						Thus
+					</p>
+				</li>
+
+				<li>
+					<p>
+						Why did the present values of the oil wells go up when the interest rates went down from part F<m>`\text{F24(a)}`</m> to part F<m>`\text{F24(b)}`</m>?
+					</p>
+		
+					<p>
+						If interest rates are lower, you would need to invest more money today to earn enough interest to make payments equivalent to what the oil wells will produce.
+					</p>
+		
+					<p>
+						<em>(Note to grader: please don’t grade this part of the problem.)</em>
+					</p>
+				</li>
+
+			</ol></p>
+					</li>
+				</ol>
+				
+			</p>
+
+			
+
+			
+
+			
+
+			
+
+				
+
+			
+
+			
+
+			
+
+		</subsection>
+
+		
+
+		<subsection xml:id="review-worksheet">
+			<title>Review Worksheet</title>
+
+			<p><ol>
+				<li>
+							<p>
+								You take out a subsidized student loan at 4.66% compounded monthly. You have a monthly discretionary income of $ P/month of which you can put up to 20% towards paying off your loan. To calculate P, take your current age divided by 3 times 100. What is the largest loan you can get under each plan?
+							</p>
+				
+							<p>
+								<term>Standard Repayment</term> With the standard plan, you’ll pay a fixed amount each month until your loans are paid in full. Your monthly payments will be at least $50, and you’ll have up to 10 years to repay your loans. The standard plan is good for you if you can handle higher monthly payments because you’ll repay your loans more quickly. Your monthly payment under the standard plan may be higher than it would be under the other plans because your loans will be repaid in the shortest time. For the same reason—the 10-year limit on repayment—you may pay the least interest.
+							</p>
+				
+							<p>
+								<term>Extended Repayment</term> To be eligible for the extended plan, you must have more than $30,000 in Direct Loan debt and you must not have an outstanding balance on a Direct Loan as of October 7, 1998. Under the extended plan you have 25 years for repayment.
+							</p>
+				</li>
+
+				<li>
+							<p>
+								Typically, most lenders suggest that you spend no more than 28% of your monthly income on a mortgage. Today, home loans for a 30 year fixed-rate mortgage are running at approximately 4%. What is the largest loan you can afford on your monthly income of $P?
+							</p>
+				</li>
+
+				<li>
+							<p>
+								You want to take 5 years to save up a 20% down payment for your house. What is the value of the house if you take out the loan you found in part <xref ref="EPpart2" /> with a 20% down payment? How much would you have to put aside monthly to save up that amount? What percentage of your monthly income of $P is that?
+							</p>
+				</li>
+
+				<li>
+							<p>
+								If you are also spending 28% of your monthly income on rent, how much money do you have to live on during the time you are paying off your loan and saving up for your house?
+							</p>
+				</li>
+
+			</ol>
+		</p>
+
+			<table>
+				<title></title>
+				<tabular halign="left" columnalign="left" columnlines="all" rowlines="all" top="medium" bottom="medium" left="medium" right="medium">
+				<row header="yes">
+					<cell>Age</cell>
+					<cell>18</cell>
+					<cell>19</cell>
+					<cell>20</cell>
+					<cell>21</cell>
+					<cell>22</cell>
+				</row>
+				<row >
+					<cell>income</cell>
+					<cell>$600.00</cell>
+					<cell>$633.33</cell>
+					<cell>$666.67</cell>
+					<cell>$700.00</cell>
+					<cell>$733.33</cell>
+				</row>
+				<row >
+					<cell>10 year</cell>
+					<cell>$11,493.00</cell>
+					<cell>$12,131.50</cell>
+					<cell>$12,770.00</cell>
+					<cell>$13,408.50</cell>
+					<cell>$14,047.00</cell>
+				</row>
+				<row>
+					<cell>25 year</cell>
+					<cell>$21,240.70</cell>
+					<cell>$22,420.74</cell>
+					<cell>$23,600.78</cell>
+					<cell>$24,780.82</cell>
+					<cell>$25,960.86</cell>
+				</row>
+				<row>
+					<cell>mortgage payment</cell>
+					<cell>$168.00</cell>
+					<cell>$177.33</cell>
+					<cell>$186.67</cell>
+					<cell>$196.00</cell>
+					<cell>$205.33</cell>
+				</row>
+				<row >
+					<cell>Mortgage</cell>
+					<cell>$35,189.49</cell>
+					<cell>$37,144.46</cell>
+					<cell>$39,099.43</cell>
+					<cell>$41,054.40</cell>
+					<cell>$43,009.37</cell>
+				</row>
+				<row >
+					<cell>House Value</cell>
+					<cell>$43,986.86</cell>
+					<cell>$46,430.57</cell>
+					<cell>$48,874.29</cell>
+					<cell>$51,318.00</cell>
+					<cell>$53,761.72</cell>
+				</row>
+				<row>
+					<cell>20 percent</cell>
+					<cell>$8,797.37</cell>
+					<cell>$9,286.11</cell>
+					<cell>$9,774.86</cell>
+					<cell>$10,263.60</cell>
+					<cell>$10,752.34</cell>
+				</row>
+				<row>
+					<cell>monthly savings</cell>
+					<cell>$132.69</cell>
+					<cell>$140.06</cell>
+					<cell>$147.44</cell>
+					<cell>$154.81</cell>
+					<cell>$162.18</cell>
+				</row>
+				<row>
+					<cell>percentage</cell>
+					<cell>22%</cell>
+					<cell>22%</cell>
+					<cell>22%</cell>
+					<cell>22%</cell>
+					<cell>22%</cell>
+				</row>
+				<row>
+					<cell>Live on</cell>
+					<cell>$179.31</cell>
+					<cell>$189.27</cell>
+					<cell>$199.23</cell>
+					<cell>$209.19</cell>
+					<cell>$219.15</cell>
+				</row>
+				<row>
+					<cell>percentage</cell>
+					<cell>30%</cell>
+					<cell>30%</cell>
+					<cell>30%</cell>
+					<cell>30%</cell>
+					<cell>30%</cell>
+				</row>
+				</tabular>
+			</table>
+		</subsection>
+</section>

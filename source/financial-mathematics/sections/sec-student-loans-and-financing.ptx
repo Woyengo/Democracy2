@@ -1,0 +1,249 @@
+<section xml:id="sec-student-loans-and-financing" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Student Loans and Financing</title>
+    <introduction>
+        <statement>
+            <p>
+               You are a college student and you or someone you know is paying for that education. Some
+                students have families that have saved up over time to pay for their college, while others
+                are financing their college education using loans. It is important to understand how student
+                loans work and the impact of taking out a student loan on your immediate future2. First we
+                will practice. 
+            </p>
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                             You need to borrow money from Alisyn. Alisyn agrees to lend you $500, but you will
+                            accrue 1% interest every day.  
+                            <ol marker="(a)">
+                                <li>
+                                    <p>
+                                        Write an expression for the amount you owe after 10 days, and generalize it for <m>t</m>
+                                        days as a function of <m>t</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        How much did you owe in interest alone?
+                                    </p>
+                                </li>
+                            </ol> 
+                        </p>
+
+                    </li>
+                    <li>
+                        <p>
+                             Consult the link below to learn how the interest on student loans is calculated:
+                           <url href="https://studentaid.gov/understand-aid/types/loans/interest-rates" /> 
+                            Calculate and compare the interest owed on the following two loans:
+                            <m>\textbf{Loan\, A}</m> 10 year loan with principal amount of $15,000 with interest at <m>7%</m>.
+                        </p>
+                        <ul>
+                            <li>
+                                <p>
+                                     [<m>\textbf{Loan\, B}</m>] 10 year loan with principal amount of $15,000 with interest at 4%
+                                </p>
+                                <p>
+                                    <me>
+                                        \text{The Impact of Attending College Fifteen Years Apart:}
+                                    </me>
+                                    <me>
+                                        \text{The Case of Hailey and Alison}
+                                        
+                                    </me>
+                                    
+                                    
+                                </p>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <p>
+                            Imagine the following scenario, Hailey attended college between 2010–2011. Alison is
+                            planning to enroll in the fall of the current year and expects to graduate four years
+                            later. Assume that the amount borrowed consists of 50% of the tuition
+                        </p>
+                        <p>
+                            <ol marker="(a)">
+                                <li>
+                                    <p>
+                                       Fill in the table below  
+                                    </p>
+                                    <table>
+                                        <!-- <title></title> -->
+                                          <tabular hallign="center" top="medium" bottom="medium" left="medium" right="medium">
+                                            <row>
+                                                <cell>Hailey and Alison</cell>
+                                            </row>
+                                            <row>
+                                                <cell></cell>
+                                                <cell>Hailey</cell>
+                                                <cell>Alison</cell>
+                                                <cell>Note</cell>
+                                                
+                                            </row>
+                                            <row>
+                                                <cell>Tuition</cell>
+                                                <cell></cell>
+                                                <cell></cell>
+                                                <cell>You need to find this information</cell>
+                                            </row>
+                                            <row>
+                                                <cell>Loan Amount</cell>
+                                                <cell></cell>
+                                                <cell></cell>
+                                                <cell>Hailey and Alison borrowed the same percentage (50%) of tuition</cell>
+                                            </row>
+                                            <row>
+                                                <cell>Loan Term</cell>
+                                                <cell>10 years</cell>
+                                                <cell>10 years</cell>
+                                                <cell></cell>
+                                            </row>
+                                            <row>
+                                                <cell>Interest Rate</cell>
+                                                <cell>6.92%</cell>
+                                                <cell>4.66%</cell>
+                                                <cell></cell>
+                                                <cell></cell>
+                                            </row>
+                                            <row>
+                                                <cell>Monthly Payment</cell>
+                                                <cell></cell>
+                                                <cell></cell>
+                                                <cell></cell>
+                                                <cell></cell>
+                                            </row>
+                                            <row>
+                                                <cell>Total Intrest Paid</cell>
+                                                <cell></cell>
+                                                <cell></cell>
+                                                <cell></cell>
+                                                <cell></cell>
+                                            </row>
+                                            <row>
+                                                <cell>Cumulative Payments</cell>
+                                                <cell></cell>
+                                                <cell></cell>
+                                                <cell></cell>
+                                            </row>
+                                        </tabular>
+                                    </table>
+                                </li>
+                                <li>
+                                    <p>
+                                       In referring to Hailey and Alison who pays less in interest and by how much 
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                       After repaying their loans, what are the cumulative payments of Hailey and Alison? 
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                       In reference to the previous question, is this result in line with or contradictory
+                                        to the interest rate each borrower got? 
+                                    </p>
+                                    <p>
+                                        <me>
+                                            \text{Same Tuition Different Interest Rates:}
+                                        </me>
+                                    </p>
+                                    <p>
+                                        <me>
+                                            \text{The Case of R’moni and Logan}
+                                        </me>
+                                        
+                                        
+                                    </p>
+                                </li>
+                            </ol>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Imagine the following scenario. R’moni and Logan attended college concurrently. They
+                            borrow a comparable sum of money. However, Logan received a lower interest rate on
+                            his loan. Assume that the amount borrowed constitutes 50% of the tuition
+                            <ol marker="(a)">
+                                <li>
+                                    <p>
+                                        Fill in the table below
+                                    </p>
+                                
+                        <table>
+                            <!-- <title></title> -->
+                            <tabular hallign="center" top="medium" bottom="medium" left="medium" right="medium">
+                                <row>
+                                    <cell>Hailey and Alison</cell>
+                                </row>
+                                <row>
+                                    <cell></cell>
+                                    <cell>Hailey</cell>
+                                    <cell>Alison</cell>
+                                    <cell>Note</cell>
+                                    
+                                </row>
+                                <row>
+                                    <cell>Tuition</cell>
+                                    <cell></cell>
+                                    <cell></cell>
+                                    <cell>You need to find this information</cell>
+                                </row>
+                                <row>
+                                    <cell>Loan Amount</cell>
+                                    <cell></cell>
+                                    <cell></cell>
+                                    <cell>Hailey and Alison borrowed the same percentage (50%) of tuition</cell>
+                                </row>
+                                <row>
+                                    <cell>Loan Term</cell>
+                                    <cell>10 years</cell>
+                                    <cell>10 years</cell>
+                                    <cell></cell>
+                                </row>
+                                <row>
+                                    <cell>Interest Rate</cell>
+                                    <cell>6.92%</cell>
+                                    <cell>4.66%</cell>
+                                    <cell></cell>
+                                    <cell></cell>
+                                </row>
+                                <row>
+                                    <cell>Monthly Payment</cell>
+                                    <cell></cell>
+                                    <cell></cell>
+                                    <cell></cell>
+                                    <cell></cell>
+                                </row>
+                                <row>
+                                    <cell>Total Intrest Paid</cell>
+                                    <cell></cell>
+                                    <cell></cell>
+                                    <cell></cell>
+                                    <cell></cell>
+                                </row>
+                                <row>
+                                    <cell>Cumulative Payments</cell>
+                                    <cell></cell>
+                                    <cell></cell>
+                                    <cell></cell>
+                                </row>
+                            </tabular>
+                        </table>
+                        </li>
+                        <li>
+                            <p>
+                                 How much does Logan save in interest compared with R’moni? Is the amount significant?
+                            </p>
+                        </li>
+                     </ol>
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </statement>
+    </introduction>
+    
+</section>
